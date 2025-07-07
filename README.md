@@ -1,2 +1,3 @@
-# olympia.github.io
-Website for Olympia
+# Website
+
+Website for Olympia: [https://playolympia.com](https://playolympia.com)
